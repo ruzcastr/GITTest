@@ -4,3 +4,7 @@ Git is free software.
 boss is stupid.
 
 creating a new branch is quick && simple.
+
+creating a new branch is quick.
+
+add merge  --no--ff
