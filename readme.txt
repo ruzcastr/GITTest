@@ -7,4 +7,4 @@ creating a new branch is quick && simple.
 
 creating a new branch is quick.
 
-add merge  --no--ff     issue-fix
+add merge  --no--ff     issue-fix  issue-fix-2
